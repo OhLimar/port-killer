@@ -5,7 +5,7 @@ Kill the process listening on a given port.
 ## Installation
 
 ```
-pip install port-killer
+pip install pkiller
 ```
 
 Or run directly:
